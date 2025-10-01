@@ -1,7 +1,7 @@
 # QuorAI – AI-powered Document Question Answering
 
-<!-- <img width="1336" height="683" alt="QuorAI Application Screenshot" src="https://github.com/user-attachments/assets/d7f810fa-3cee-4b18-bd99-df5e8d20f748" /> -->
-<img width="415" height="521" alt="image" src="https://github.com/user-attachments/assets/83cc1da0-556b-4f55-8e8b-5180b0cb3734" />
+<img width="1336" height="683" alt="QuorAI Application Screenshot" src="https://github.com/user-attachments/assets/d7f810fa-3cee-4b18-bd99-df5e8d20f748" /> 
+<!-- <img width="415" height="521" alt="image" src="https://github.com/user-attachments/assets/83cc1da0-556b-4f55-8e8b-5180b0cb3734" /> -->
 
 ## Description
 QuorAI is an AI-driven platform that allows users to upload PDFs and interact with them through natural language questions. Instead of manually searching through long documents, users can query QuorAI to extract precise answers using advanced NLP techniques. The application is designed for students, researchers, and professionals who need efficient knowledge retrieval from large documents.
