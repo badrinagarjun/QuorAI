@@ -6,7 +6,7 @@
 
 
 ## Description
-QuorAI is an AI-driven platform that allows users to upload PDFs and interact with them through natural language questions. Instead of manually searching through long documents, users can query QuorAI to extract precise answers using advanced NLP techniques. The application is designed for students, researchers, and professionals who need efficient knowledge retrieval from large documents.
+QuorAI is an AI-driven RAG (Retrieval-Augmented Generation) platform that allows users to upload PDFs and interact with them through natural language questions. Instead of manually searching through long documents, users can query QuorAI to extract precise answers using advanced NLP techniques. The application is designed for students, researchers, and professionals who need efficient knowledge retrieval from large documents.
 
 ## Key Features
 
